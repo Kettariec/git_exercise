@@ -3,5 +3,5 @@ def upper(text):
     return text.upper()
 
 def title(text):
-    """ещё один"""
+    """ещё один ---"""
     return text.title()
